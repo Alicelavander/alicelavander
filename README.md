@@ -2,7 +2,8 @@
 Arisa Okamura  
 17 years old  
 she/her  
-Currently a junor at The Lawrenceville School.  
+Junor at The Lawrenceville School.  
+Programmer, Violinist, Designer, Procrastinator...  
 
 ## Interests 👀
 Human-Computer Interaction  
