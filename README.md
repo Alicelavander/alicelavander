@@ -23,6 +23,7 @@ Music (Music Theory)
 ## Recent Projects 🧶
 * SafeNavi (2023~)
   * A navigation app focused on safety of the routes
+  * AWS Award at CCCu22 2023
 * Interactive Roman Numeral Analysis (2023~)
   * Musescore plugin that automatically analyzes music score in roman numeral form
 * Noxicel (2022~)
