@@ -16,7 +16,7 @@ Music (Especially music theory, also performance)
 2023 Hutchins Science Program ORIGINAL Scholar  
 2023 Teaching Assistant at Lawrenceville Summer Scholars Program  
 2023 Civictech Challenge Cup 2023 AWS Award  
-2022 [Mitou Junior](https://jr.mitou.org/english/) Super Creator 
+2022 [Mitou Junior](https://jr.mitou.org/english/) Super Creator  
 2021-23 CYBERWAVE CO.,LTD Paid Intern
 
 ## Recent Projects🧶
