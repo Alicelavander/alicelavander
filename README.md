@@ -2,17 +2,16 @@
 Arisa Okamura  
 17 years old  
 she/her  
-Junor at The Lawrenceville School.  
+Junior at The Lawrenceville School.  
 Programmer, Violinist, Designer, Procrastinator...  
 
 ## Interests 👀
 Human-Computer Interaction  
 Social Computing / Accessibility  
-Music (Music Theory)  
+Music (Especially music theory, also performance)  
 
 ## Bio 🎃
 2023- Co-Captain of FTC Team 11166
-2023-24 Welles Award Recipient  
 2023-24 [Experts in Information Science Program](https://www.nii.ac.jp/tatsujin/en/) (ran by National Institute of Informatics)  
 2023 Hutchins Science Program ORIGINAL Scholar  
 2023 Teaching Assistant at Lawrenceville Summer Scholars Program  
