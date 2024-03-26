@@ -18,7 +18,7 @@ Music (Especially music theory, also performance)
 2022 [Mitou Junior](https://jr.mitou.org/english/) creator
 2021-23 CYBERWAVE CO.,LTD Paid Intern
 
-## Awards💩
+## Awards🍀
 2023-24 [William Welles Award](https://www.lawrenceville.org/life-at-lawrenceville/news-events/news-detail/~board/sliders/post/william-welles-award) recipient  
 2023 Civictech Challenge Cup 2023 AWS Award  
 2022 [Mitou Junior](https://jr.mitou.org/english/) Super Creator 
