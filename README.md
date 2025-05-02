@@ -1,7 +1,8 @@
 ## Hello!✨
 Arisa Okamura  
-17 years old  
+18 years old  
 she/her  
-Senior at The Lawrenceville School.  
+Senior at The Lawrenceville School.
+Incoming Freshmen @CMU SCS
 Interested in HCI / Social Computing / Accessibilty / Educational technology  
 Programmer, Violinist, Designer...  
